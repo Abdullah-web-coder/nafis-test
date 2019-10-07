@@ -1017,19 +1017,16 @@ blockquote span img {
 	margin-bottom: 15px;
 }
 
-.pt-home .banner p {
+.pt-home .banner .iait1 {
 	color: #fff;
 	font-size: 20px;
-	padding: 0 auto;
-	position: center;
-	margin: 0 auto;
+	text-align: center;
+	margin: 0 10%;
 }
 
 .pt-home .banner .iait2 {
 	color: #fff;
 	font-size: 20px;
-	padding: 0 auto;
-	position: center;
 	text-align: center;
 	margin: 0 14%;
 }
@@ -1037,8 +1034,7 @@ blockquote span img {
 .pt-home .banner .iait3 {
 	color: #fff;
 	font-size: 20px;
-	padding: 0 auto;
-	position: center;
+	text-align: center;
 	margin: 0 24%;
 }
 
