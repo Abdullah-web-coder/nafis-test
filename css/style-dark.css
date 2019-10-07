@@ -2895,7 +2895,27 @@ blockquote span img {
     	width: 100%;
     	bottom: 0;
     	left: 0;
-	} 
+	}
+	.pt-home .banner .iait1 {
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 8%;
+	}
+
+	.pt-home .banner .iait2 {
+		color: #fff;
+		font-size: 20px;
+		text-align: center;
+		margin: 0 10%;
+	}
+
+	.pt-home .banner .iait3 {
+		color: #fff;
+		font-size: 20px;
+		text-align: center;
+		margin: 0 15%;
+	}
 }
 
 /* ---------------------------------
